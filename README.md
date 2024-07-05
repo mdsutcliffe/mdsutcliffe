@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Matthew Sutcliffe and I'm an MD-PhD student at the University of North Carolina at Chapel Hill.
 
 <!--
 **mdsutcliffe/mdsutcliffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
